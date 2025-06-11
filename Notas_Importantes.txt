@@ -1,0 +1,7 @@
+O meu novo Shell será executado sob o Bash que é o Shell padrão do Linux. No meu caso eu estou usando o WSL que é um Sistema Linux que roda sobre o sistema operacional da minha máquina que é o Windows.
+
+Projetos de Shell Script no Linux consistem no desenvolvimento de scripts (arquivos de texto executáveis) escritos em shell, 
+geralmente Bash (Bourne Again Shell), com o objetivo de automatizar tarefas dentro do sistema operacional Linux.
+Esses projetos exploram o uso de comandos do sistema, estruturas de controle, manipulação de arquivos, entrada/saída, entre outros recursos do shell.
+
+-----> O interpretador do meu script está no /bin/bash ----> Irei chamá-lo para executá-lo, mas tenho que mudar a proteção do meu arquivo rwx.
